@@ -5,15 +5,15 @@ Business Analysis project for SACO IT SME - BA Intern application
 This project analyzes the information systems of SACO, a small IT SME in Ho Chi Minh City, using SWOT analysis to identify gaps and proposes two solutions (Zoho One and Microsoft Integration) to drive digital transformation, reduce costs, and enhance scalability.
 
 ## Objectives
-Analyze SACO’s systems (CRM, ERP, AIS, HRM, TPS, MIS) to identify strengths and weaknesses.
-Propose solutions to optimize operations, improve security, and support market expansion.
-Recommend Zoho One as the optimal choice for SACO’s SME needs.
+- Analyze SACO’s systems (CRM, ERP, AIS, HRM, TPS, MIS) to identify strengths and weaknesses.
+- Propose solutions to optimize operations, improve security, and support market expansion.
+- Recommend Zoho One as the optimal choice for SACO’s SME needs.
 
 ## Key Findings
-SWOT Insights: SACO’s self-developed systems are flexible but costly and lack scalability.
-Zoho One: Comprehensive, AI-supported, reduces costs by 30-50%).
-Microsoft Integration: Cost-effective but complex, less scalable.
-Impact: Zoho One enables 20% revenue growth via market expansion.
+- SWOT Insights: SACO’s self-developed systems are flexible but costly and lack scalability.
+- Zoho One: Comprehensive, AI-supported, reduces costs by 30-50%.
+- Microsoft Integration: Cost-effective but complex, less scalable.
+- Impact: Zoho One enables revenue growth via market expansion.
 
 ## Key Skills Demonstrated
 - Analytical thinking: SWOT & cost-benefit analysis.
