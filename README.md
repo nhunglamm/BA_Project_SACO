@@ -1,5 +1,5 @@
 # BA_Project_SACO
-Business Analysis project for SACO IT SME - BA Intern application
+Business Analysis project for SACO IT SME
 
 ## Overview
 This project analyzes the information systems of SACO, a small IT SME in Ho Chi Minh City, using SWOT analysis to identify gaps and proposes two solutions (Zoho One and Microsoft Integration) to drive digital transformation, reduce costs, and enhance scalability.
