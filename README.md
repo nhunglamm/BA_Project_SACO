@@ -23,5 +23,5 @@ This project analyzes the information systems of SACO, a small IT SME in Ho Chi 
 - Alignment with VNG: Support PM in cloud/ERP projects (e.g., VNG Cloud for SMEs).
 
 ## How to View
-Download BA_SACO_Presentation.pdf for the full project.
+Click BA_SACO_Presentation.pdf to view the full project.
 Contact me at nhunglam979.work@gmail.com for a discussion.
