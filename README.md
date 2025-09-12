@@ -20,7 +20,7 @@ This project analyzes the information systems of SACO, a small IT SME in Ho Chi 
 - Requirement gathering: Stakeholder interviews & system evaluation.
 - Solution validation: Comparing Zoho vs. Microsoft for SACO needs.
 - Documentation: Detailed 12-week Agile plan.
-- Alignment with VNG: Support PM in cloud/ERP projects (e.g., VNG Cloud for SMEs).
+- Alignment with VNG: Support PM in cloud/ERP projects.
 
 ## How to View
 Click BA_SACO_Presentation.pdf to view the full project.
